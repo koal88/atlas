@@ -1,0 +1,350 @@
+siva gos
+beločela gos
+mala gos
+njivska gos
+belolična gos
+kanadska gos
+rdečevrata gos
+labod grbec
+črni labod
+mali labod
+labod pevec
+nilska gos
+rjasta kozarka
+duplinska kozarka
+moškatna bleščavka
+nevestica
+mandarinka
+reglja
+raca žličarica
+konopnica
+žvižgavka
+mlakarica
+dolgorepa raca
+kreheljc
+tatarska žvižgavka
+sivka
+kostanjevka
+čopasta črnica
+rjavka
+gaga
+beloliska
+črna raca
+zimska raca
+zvonec
+mali žagar
+kapucasti žagar
+veliki žagar
+srednji žagar
+Virginijski kolin
+prepelica
+kotorna
+španska kotorna
+fazan
+jerebica
+divji petelin
+ruševec
+gozdni jereb
+belka
+plamenec
+mali ponirek
+zlatouhi ponirek
+rjavovrati ponirek
+čopasti ponirek
+črnovrati ponirek
+domači golob
+duplar
+grivar
+divja grlica
+turška grlica
+čopasta kukavica
+kukavica
+podhujka
+planinski hudournik
+hudournik
+bledi hudournik
+mokož
+kosec
+grahasta tukalica
+zelenonoga tukalica
+liska
+mala tukalica
+pritlikava tukalica
+žerjav
+polojnik
+sabljarka
+školjkarica
+črna prosenka
+zlata prosenka
+priba
+beločeli deževnik
+komatni deževnik
+mali deževnik
+dular
+mali škurh
+veliki škurh
+progastorepi kljunač
+črnorepi kljunač
+kamenjar
+veliki prodnik
+togotnik
+srpokljuni prodnik
+Temminckov prodnik
+peščenec
+spremenljivi prodnik
+mali prodnik
+puklež
+sloka
+čoketa
+kozica
+ozkokljuni liskonožec
+ploskokljuni liskonožec
+mali martinec
+pikasti martinec
+črni martinec
+zelenonogi martinec
+jezerski martinec
+močvirski martinec
+rdečenogi martinec
+rjava komatna tekica
+velika govnačka
+bodičasta govnačka
+triprsti galeb
+zalivski galeb
+rečni galeb
+mali galeb
+črnoglavi galeb
+ribji galeb
+sivi galeb
+srebrni galeb
+rumenonogi galeb
+črnomorski galeb
+rjavi galeb
+mala čigra
+črnonoga čigra
+kaspijska čigra
+črna čigra
+beloperuta čigra
+belolična čigra
+navadna čigra
+kričava čigra
+rdečegrli slapnik
+polarni slapnik
+ledni slapnik
+rumenokljuni viharnik
+sredozemski viharnik
+črna štorklja
+bela štorklja
+strmoglavec
+pritlikavi kormoran
+kormoran
+vranjek
+bobnarica
+čapljica
+siva čaplja
+rjava čaplja
+velika bela čaplja
+mala bela čaplja
+kravja čaplja
+čopasta čaplja
+kvakač
+plevica
+klavžar
+žličarka
+ribji orel
+brkati ser
+sršenar
+rjavi jastreb
+beloglavi jastreb
+kačar
+mali klinkač
+veliki klinkač
+mali orel
+planinski orel
+rjavi lunj
+pepelasti lunj
+stepski lunj
+močvirski lunj
+kratkonogi skobec
+skobec
+kragulj
+rjavi škarnik
+črni škarnik
+belorepec
+koconoga kanja
+kanja
+rjasta kanja
+pegasta sova
+veliki skovik
+velika uharica
+mali skovik
+čuk
+lesna sova
+kozača
+mala uharica
+močvirska uharica
+koconogi čuk
+smrdokavra
+vodomec
+čebelar
+zlatovranka
+vijeglavka
+triprsti detel
+srednji detel
+belohrbti detel
+veliki detel
+sirijski detel
+mali detel
+pivka
+zelena žolna
+črna žolna
+južna postovka
+postovka
+rdečenoga postovka
+sredozemski sokol
+mali sokol
+škrjančar
+sokol plenilec
+sokol selec
+aleksander
+rjavi srakoper
+veliki srakoper
+črnočeli srakoper
+rjavoglavi srakoper
+kobilar
+šoja
+sraka
+krekovt
+planinska vrana
+planinska kavka
+kavka
+poljska vrana
+črna vrana
+siva vrana
+krokar
+brkata sinica
+kratkoprsti škrjanček
+laški škrjanec
+hribski škrjanec
+poljski škrjanec
+čopasti škrjanec
+breguljka
+skalna lastovka
+kmečka lastovka
+rdeča lastovka
+mestna lastovka
+menišček
+čopasta sinica
+žalobna sinica
+močvirska sinica
+gorska sinica
+plavček
+velika sinica
+plašica
+dolgorepka
+brglez
+skalni plezalček
+dolgoprsti plezalček
+kratkoprsti plezalček
+stržek
+povodni kos
+rumenoglavi kraljiček
+rdečeglavi kraljiček
+svilnica
+grmovščica
+hribska listnica
+mušja listnica
+severni kovaček
+vrbji kovaček
+bledi vrtnik
+kratkoperuti vrtnik
+rumeni vrtnik
+tamariskovka
+bičja trstnica
+robidna trstnica
+močvirska trstnica
+srpična trstnica
+rakar
+rečni cvrčalec
+trstni cvrčalec
+kobiličar
+brškinka
+črnoglavka
+vrtna penica
+pisana penica
+mlinarček
+taščična penica
+žametna penica
+rjava penica
+sivi muhar
+taščica
+veliki slavec
+slavec
+modra taščica
+mali muhar
+črnoglavi muhar
+belovrati muhar
+pogorelček
+šmarnica
+slegur
+puščavec
+repaljščica
+prosnik
+kupčar
+sredozemski kupčar
+carar
+cikovt
+vinski drozg
+kos
+brinovka
+komatar
+škorec
+rožnati škorec
+planinska pevka
+siva pevka
+siva pastirica
+rumena pastirica
+citronasta pastirica
+bela pastirica
+ostrožna cipa
+rjava cipa
+travniška cipa
+drevesna cipa
+rdečegrla cipa
+godzna cipa
+vriskarica
+pegam
+ščinkavec
+pinoža
+dlesk
+škrlatec
+kalin
+zelenec
+severni repnik
+repnik
+brezovček
+veliki krivokljun
+krivokljun
+beloperuti krivokljun
+lišček
+konopeljščica
+grilček
+čižek
+snežni strnad
+črnoglavi strnad
+veliki strnad
+skalni strnad
+plotni strnad
+rumeni strnad
+beloglavi strnad
+vrtni strnad
+trstni strnad
+mali strnad
+domači vrabec
+italijanski vrabec
+travniški vrabec
+poljski vrabec
+planinski vrabec
+velika droplja
+mala droplja
+mali rumenonogi martinec
